@@ -10,6 +10,7 @@ body{
     margin-left: 450px;
     margin-top: 300px;
     border-radius: 10px;
+
 }
 h2 {
     font-weight: bolder;
@@ -56,4 +57,8 @@ input{
 }
 #total{
     text-align: centers;
+}
+nav{
+    margin-left: 550px;
+    font-size: x-large;
 }
